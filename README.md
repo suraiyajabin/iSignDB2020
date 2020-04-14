@@ -8,6 +8,7 @@ It's a database created to design foolproof biometric signature authentication s
 -A total of 48 students (MCA students of Department of Computer Science, JMI batch 2020) volunteered for data collection out of which we identified 32 users as genuine signature contributors and 16 users as fake signature contributors with skilled forgery.
 
 -Data was collected in 3 different sessions separated by at least 20 days in order to capture the emotional intelligence of users.
+
 -During each session, one pair of subjects, out of which one subject contributed 10 original signatures and the other contributed 5 fake signatures.
 
 -For obtaining a fake signature, a subject was allowed to practice not only the signature image of a genuine user but also the behaviorism (e.g. number of touchpoints, style of finger movement while signing, etc.) with genuine signer signs on the touch screen of a smartphone.
@@ -26,3 +27,5 @@ It's a database created to design foolproof biometric signature authentication s
 u01_s3_r010_AngVel.txt : means a signature of user 1, on session 3, real signature, 10th sample’s Angular velocity sensor log
 u01_s1_f02_MagField.txt : means a signature of user 1, on session 1, fake signature, 2nd sample’s magnetic field sensor log
 u01_s1_r01_im.png : image of the genuine signature of user 1, captured on session 1, sample 1
+
+iPhoneSignDB will be made available only after signing its "Term of use" agreement.
