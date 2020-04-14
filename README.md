@@ -28,4 +28,4 @@ u01_s3_r010_AngVel.txt : means a signature of user 1, on session 3, real signatu
 u01_s1_f02_MagField.txt : means a signature of user 1, on session 1, fake signature, 2nd sample’s magnetic field sensor log
 u01_s1_r01_im.png : image of the genuine signature of user 1, captured on session 1, sample 1
 
-iPhoneSignDB will be made available only after signing its "Term of use" agreement.
+iSignDB will be made available to other researchers only after signing its "Term of use" agreement.
