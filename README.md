@@ -5,7 +5,7 @@ It's a database created to design foolproof biometric signature authentication s
 
 -We named it iSignDB as we used the device iPhone 7 Plus for capturing dynamic signatures.
 
--A total of 48 students (MCA students of Department of Computer Science, JMI batch 2020) volunteered for data collection out of which we identified 32 users as genuine signature contributors and 16 users as fake signature contributors with skilled forgery.
+-A total of 48 subjects volunteered for data collection out of which we identified 32 users as genuine signature contributors and 16 users as fake signature contributors with skilled forgery.
 
 -Data was collected in 3 different sessions separated by at least 20 days in order to capture the emotional intelligence of users.
 
