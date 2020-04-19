@@ -3,7 +3,7 @@ It's a database created to design foolproof biometric signature authentication s
 
 -The dataset iSignDB is created to implement a novel anti-spoof biometric signature authentication for smartphone users.
 
--We named it iSignDB as we used the device iPhone 7 Plus for capturing dynamic signatures.
+-We named it iSignDB as we collected it using licensed MathWorks cloud account with two devices iPhone 7 Plus and Redmi Note 7 for capturing dynamic signatures.
 
 -A total of 48 subjects volunteered for data collection out of which we identified 32 users as genuine signature contributors and 16 users as fake signature contributors with skilled forgery.
 
