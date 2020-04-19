@@ -22,4 +22,6 @@ Prof. Suraiya Jabin provides the iSignDB Dataset "AS IS," without any warranty o
 
 Prof. Suraiya Jabin MAKES NO WARRANTIES, EXPRESS OR IMPLIED WITH RESPECT TO THE iSignDB DATASET, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, WHICH ARE HEREBY EXPRESSLY DISCLAIMED.
 
+After acquiring license of the iSignDB database, user is requested to delete the database affter 2 years. If a user wishes to use it after 2 years, he/she will need to acquire the license again.
+
 Your acceptance and use of the iSignDB Dataset binds you to the terms and conditions of this License as stated herein.
