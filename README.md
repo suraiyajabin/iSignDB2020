@@ -15,7 +15,7 @@ It's a database created to design foolproof biometric signature authentication s
 
 -A total of 30 genuine and 15 fake samples were collected for every 32 users.
 
--One sign of a user contains a sensor log of these devices captured using sensors present in device iPhone 7 Plus: Accelerometer, Gyroscope, Magnetometer, and GPS, etc along with images of signature as obtained by performing a sign on the touch screen of the device.
+-One sign of a user contains a sensor log of these devices captured using sensors present in device iPhone 7 Plus: Accelerometer, Gyroscope, Magnetometer, Orientation, and GPS Position log, etc along with images of signature as obtained by performing a sign on the touch screen of the device.
 
 -Currently, we only put biometric sign database of user 1 only in this repository, but as soon as this work is published, we will make the full database of 32 users available here with some terms and conditions.
 
