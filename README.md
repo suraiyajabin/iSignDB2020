@@ -31,7 +31,9 @@ u01_s1_r01_im.png : image of the genuine signature of user 1, captured on sessio
 iSignDB will be made available to other researchers only after signing its "Term of use" agreement.
 
 All those who download iSignDB for their research work, need to sign and send "Term of Use" and cite these papers:
+
 -Suraiya Jabin, Sumaiya Ahmad, Sarthak Mishra, Farhana Javed Zareen, April 20, 2020, "iSignDB: A biometric signature database created using smartphone", IEEE Dataport, doi: https://dx.doi.org/10.21227/kdrr-zj79.
+
 -Jabin, S., Ahmad, S., Mishra, S., & Zareen, F. J. (2020). iSignDB: A database for smartphone signature biometrics. Data in Brief, in press.
 
 
