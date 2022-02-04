@@ -18,7 +18,7 @@ Prof. Suraiya Jabin of JMI hereby grants to You a non-exclusive, non-transferabl
 You agree to acknowledge the source of the iSignDB Dataset in all of Your publications and presentations based wholly or in part on the iSignDB Dataset. You agree to provide a disclaimer in any publication or presentation to the effect that the Prof. Suraiya Jabin of JMI does not bear any responsibility for Your analysis or interpretation of iSignDB Dataset.  
 If you use this databse for your work, you need to give due credit to the authors by citing these two papers in your work:
 -Jabin, S., Ahmad, S., Mishra, S., & Zareen, F. J. (2020). iSignDB: A database for smartphone signature biometrics. Data in brief, 33, 106597.
--Jabin, S., Ahmad, S., Mishra, S., & Zareen, F. J. (2022). Sensor-enabled Biometric Signature based authentication method for smartphone users. International Journal of Biometrics (IJBM), InderScience (accepted).
+Ahmad, S., Mishra, S., & Zareen, F. J., Jabin, S. (2022). Sensor-enabled Biometric Signature based authentication method for smartphone users. International Journal of Biometrics (IJBM), InderScience (accepted).
 You agree and acknowledge that the Prof. Suraiya Jabin of JMI may hold, process, and store any personal data submitted by You for validation and statistical purposes and for the purposes of the administration and management of iSignDB Dataset. You agree that any personal data submitted by You is accurate to the best of his or her knowledge.
 
 Prof. Suraiya Jabin provides the iSignDB Dataset "AS IS," without any warranty or promise of technical support, and disclaims any liability of any kind for any damages whatsoever resulting from use of the ISIGNDB Dataset .
