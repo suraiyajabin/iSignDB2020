@@ -8,23 +8,33 @@ The following terms, unless the context requires otherwise, have the following m
 
 “iSignDB Dataset”: means the large-scale data set about dynamic signature performed using smartphone collected by the Data Team;
 
-“Licensee”, “You”, “Your”, “Yours”: means the person or entity acquiring a license here under for access to and use of the iSignDB Dataset.
+“Licensee”, “You”, “Your”, “Yours”: means the person or entity acquiring a license here for access to and use of the iSignDB Dataset.
 
 2. Grant of License
 
 Prof. Suraiya Jabin of JMI hereby grants to You a non-exclusive, non-transferable, revocable license to use the iSignDB Dataset solely for Your non-commercial, educational, and research purposes only, but without any right to copy or reproduce, publish or otherwise make available to the public or communicate to the public, sell, rent or lend the whole or any constituent part of the iSignDB Dataset thereof. The iSignDB Dataset shall not be redistributed without the express written prior approval of the Prof. Suraiya Jabin of JMI. You agree to respect the privacy of those human subjects whose smartphone usage behavior data are included in the iSignDB Dataset. Do not attempt to reverse the anonymization process to identify specific identifiers including, without limitation, names, postal address information, telephone numbers, e-mail addresses, social security numbers, and biometric identifiers. You agree not to reverse engineer, separate or otherwise tamper with the iSignDB Dataset so that data can be extracted and used outside the scope of that permitted in this Agreement. 
 
 
-You agree to acknowledge the source of the iSignDB Dataset in all of Your publications and presentations based wholly or in part on the iSignDB Dataset. You agree to provide a disclaimer in any publication or presentation to the effect that the Prof. Suraiya Jabin of JMI does not bear any responsibility for Your analysis or interpretation of iSignDB Dataset.  
-If you use this databse for your work, you need to give due credit to the authors by citing these two papers in your work:
+You agree to acknowledge the source of the iSignDB Dataset in all of Your publications and presentations based wholly or in part on the iSignDB Dataset. You agree to provide a disclaimer in any publication or presentation that the Prof. Suraiya Jabin of JMI does not bear any responsibility for Your analysis or interpretation of iSignDB Dataset. 
+
+If you use this data for your work, you need to give due credit to the authors by citing these papers in your work:
+
 -Jabin, S., Ahmad, S., Mishra, S., & Zareen, F. J. (2020). iSignDB: A database for smartphone signature biometrics. Data in brief, 33, 106597.
-Ahmad, S., Mishra, S., & Zareen, F. J., Jabin, S. (2022). Sensor-enabled Biometric Signature based authentication method for smartphone users. International Journal of Biometrics (IJBM), InderScience (accepted).
-You agree and acknowledge that the Prof. Suraiya Jabin of JMI may hold, process, and store any personal data submitted by You for validation and statistical purposes and for the purposes of the administration and management of iSignDB Dataset. You agree that any personal data submitted by You is accurate to the best of his or her knowledge.
+-Sumaiya Ahmad, Sarthak Mishra, Farhana Javed Zareen, Suraiya Jabin (January 2023), Sensor-enabled Biometric Signature based authentication method for smartphone users, International Journal of Biometrics (IJBM), InderScience. Published Online: January 9, 2023, pp 212-232, https://doi.org/10.1504/IJBM.2023.129229  
+-Ahmad, S., Jabin, S., "Fingerprint Classification using Deep learning", 2022, First International Conference on Artificial Intelligence Trends and Pattern Recognition (ICAITPR), 2022, March 10-12, 2022, pp. 1-6, doi: 10.1109/ICAITPR51569.2022.9844181, https://doi.org/10.1109/ICAITPR51569.2022.9844181 Electronic ISBN:978-1-6654-2521-6, Print on Demand (PoD) ISBN:978-1-6654-2522-3.       
+-Zareen, F. J., Matta, C., Arora A., Singh, S., Jabin, S.* (2018), An authentication system using keystroke dynamics in International Journal of Biometrics, InderScience Publisher, Vol 10, issue 1, pp. 65-76, ISSN print: 1755-8301 DOI: 10.1504/IJBM.2018.090129 
+2016
+-Zareen, F. J., & Jabin, S. (2016). Authentic mobile-biometric signature verification system. IET Biometrics, 5(1), 13-19, Online ISSN 2047-4946 Print ISSN 2047-4938 https://doi.org/10.1049/iet-bmt.2015.0017 
+2015
+-Jabin, Suraiya*, Zareen, F. J. (2015). Biometric signature verification. International Journal of Biometrics, 7(2), 97-118, ISSN print: 1755-8301, DOI: 10.1504/IJBM.2015.070924 
 
-Prof. Suraiya Jabin provides the iSignDB Dataset "AS IS," without any warranty or promise of technical support, and disclaims any liability of any kind for any damages whatsoever resulting from use of the ISIGNDB Dataset .
 
-Prof. Suraiya Jabin MAKES NO WARRANTIES, EXPRESS OR IMPLIED WITH RESPECT TO THE iSignDB DATASET, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, WHICH ARE HEREBY EXPRESSLY DISCLAIMED.
+You agree and acknowledge that Prof. Suraiya Jabin of JMI may hold, process, and store any personal data submitted by You for validation and statistical purposes and for the administration and management of iSignDB Dataset. You agree that any personal data submitted by You is accurate to the best of his or her knowledge.
 
-After acquiring license of the iSignDB database, user is requested to delete the database affter 2 years. If a user wishes to use it after 2 years, he/she will need to acquire the license again.
+Prof. Suraiya Jabin provides the iSignDB Dataset "AS IS," without any warranty or promise of technical support, and disclaims any liability of any kind for any damages whatsoever resulting from use of the ISIGNDB Dataset.
 
-Your acceptance and use of the iSignDB Dataset binds you to the terms and conditions of this License as stated herein.
+Prof. Suraiya Jabin MAKES NO WARRANTIES, EXPRESS OR IMPLIED concerning THE iSignDB DATASET, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, WHICH ARE HEREBY EXPRESSLY DISCLAIMED.
+
+After acquiring a license for the iSignDB database, the user is requested to delete the database after 2 years. If a user wishes to use it after 2 years, he/she must acquire the license again.
+
+Your acceptance and use of the iSignDB Dataset is bound by the terms and conditions of this License as stated here.
