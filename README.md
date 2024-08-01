@@ -32,8 +32,14 @@ iSignDB will be made available to other researchers only after signing its "Term
 
 All those who download iSignDB for their research work, need to sign and send "Term of Use" and cite these papers:
 
--Suraiya Jabin, Sumaiya Ahmad, Sarthak Mishra, Farhana Javed Zareen, April 20, 2020, "iSignDB: A biometric signature database created using smartphone", IEEE Dataport, doi: https://dx.doi.org/10.21227/kdrr-zj79.
+-Jabin, S., Ahmad, S., Mishra, S., & Zareen, F. J. (2020). iSignDB: A database for smartphone signature biometrics. Data in brief, 33, 106597.
+-Sumaiya Ahmad, Sarthak Mishra, Farhana Javed Zareen, Suraiya Jabin (January 2023), Sensor-enabled Biometric Signature based authentication method for smartphone users, International Journal of Biometrics (IJBM), InderScience. Published Online: January 9, 2023, pp 212-232, https://doi.org/10.1504/IJBM.2023.129229  
+-Ahmad, S., Jabin, S., "Fingerprint Classification using Deep learning", 2022, First International Conference on Artificial Intelligence Trends and Pattern Recognition (ICAITPR), 2022, March 10-12, 2022, pp. 1-6, doi: 10.1109/ICAITPR51569.2022.9844181, https://doi.org/10.1109/ICAITPR51569.2022.9844181 Electronic ISBN:978-1-6654-2521-6, Print on Demand (PoD) ISBN:978-1-6654-2522-3.       
+-Zareen, F. J., Matta, C., Arora A., Singh, S., Jabin, S.* (2018), An authentication system using keystroke dynamics in International Journal of Biometrics, InderScience Publisher, Vol 10, issue 1, pp. 65-76, ISSN print: 1755-8301 DOI: 10.1504/IJBM.2018.090129 
+2016
+-Zareen, F. J., & Jabin, S. (2016). Authentic mobile-biometric signature verification system. IET Biometrics, 5(1), 13-19, Online ISSN 2047-4946 Print ISSN 2047-4938 https://doi.org/10.1049/iet-bmt.2015.0017 
+2015
+-Jabin, Suraiya*, Zareen, F. J. (2015). Biometric signature verification. International Journal of Biometrics, 7(2), 97-118, ISSN print: 1755-8301, DOI: 10.1504/IJBM.2015.070924 
 
--Jabin, S., Ahmad, S., Mishra, S., & Zareen, F. J. (2020). iSignDB: A database for smartphone signature biometrics. Data in Brief, in press.
 
 
